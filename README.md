@@ -35,7 +35,7 @@ MATLAB, Statistics and Machine Learning Toolbox™
 The license for this module is available in the LICENSE.TXT file in this GitHub repository.
 
 ## Support ##
-日本語でのお問い合わせは[マスワークスジャパン教育関係部門](mailto:cse-jp@groups.mathworks.com)までお願いします。
+日本語でのお問い合わせは[MathWorks Japan カスタマーサクセス部](mailto:cse-jp@groups.mathworks.com)までお願いします。
 Have any questions or feedback? Contact the [MathWorks online teaching team](mailto:onlineteaching@mathworks.com).
 
 # #
