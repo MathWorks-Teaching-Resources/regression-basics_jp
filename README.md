@@ -1,4 +1,4 @@
-# Regression Basics
+# Regression Basics [![View Regression Basics (日本語版) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/96842-regression-basics)
 **Curriculum Module**  
 R2020aを使用して作成、R2020a以降の製品で動作確認
 
