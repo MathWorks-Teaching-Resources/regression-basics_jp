@@ -17,7 +17,7 @@ This repository contains a Japanese version of a published repository "Regressio
 - 線形回帰モデルを用いて短い期間の予測を行う
 
 ## おすすめの予習
-[MATLAB Onramp](https://jp.mathworks.com/learn/tutorials/matlab-onramp.html) – MATLABの基本を学ぶ、無料2時間入門コース
+[MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – MATLABの基本を学ぶ、無料2時間入門コース
 ## 詳細
 **regressionBasics.mlx**  
 回帰分析の基礎を説明するインタラクティブな講義です。基本的な線形回帰を応用して、実世界の電力負荷データをモデル化します。  
